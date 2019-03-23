@@ -1,0 +1,29 @@
+button{
+	border:2px solid orange;
+	color:orange;
+	background-color:transparent;
+	font-size:25px;
+	margin:2%;
+}
+.buttons{
+	border:5px solid orange;
+	padding:5%;
+	color:orange;
+	text-align:center;
+}
+p{
+	font-size:25px;
+}
+.DT{
+	color:orange;
+	font-size:20px;
+	text-align:center;
+	border:5px solid orange;
+	margin-top:2%;
+}
+body{
+	background-color:black;
+}
+button:hover{
+	cursor:pointer;
+}
