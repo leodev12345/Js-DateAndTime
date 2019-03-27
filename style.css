@@ -3,11 +3,13 @@ button{
 	color:orange;
 	background-color:transparent;
 	font-size:25px;
-	margin:2%;
+	margin-right:1%;
+	margin-bottom:1px;
 }
 .buttons{
 	border:5px solid orange;
 	padding:5%;
+	padding-top:0%;
 	color:orange;
 	text-align:center;
 }
@@ -30,9 +32,11 @@ button:hover{
 	background-color:orange;
 	border-color:black;
 }
-#all{
-	position:absolute;
-	top:50%;
-	left:50%;
-	transform:translate(-50%,-50%);
+.1{
+	border:2px solid orange;
+	color:orange;
+	background-color:transparent;
+	font-size:25px;
+	margin-right:1%;
+
 }

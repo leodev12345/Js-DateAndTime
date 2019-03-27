@@ -23,3 +23,9 @@ function one(){
 function two(){
   document.getElementById("date").innerHTML = date.toDateString();
 }
+function hover(){
+	document.body.style.backgroundColor = "white";
+}
+function hoverTwo(){
+	document.body.style.backgroundColor = "black";
+}
