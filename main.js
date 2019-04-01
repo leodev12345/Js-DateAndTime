@@ -25,7 +25,21 @@ function two(){
 }
 function hover(){
 	document.body.style.backgroundColor = "white";
+	document.body.style.backgroundImage = "";
 }
 function hoverTwo(){
 	document.body.style.backgroundColor = "black";
+	document.body.style.backgroundImage = "";
+}
+function space(){
+	document.body.style.backgroundImage = "url('img/space.jpeg')";
+}
+function landscapes(){
+	document.body.style.backgroundImage = "url('img/landscapes.jpeg')";
+}
+function mt(){
+	document.body.style.backgroundImage = "url('img/mt.jpeg')";
+}
+function mb(){
+	document.body.style.backgroundImage = "url('img/mb.jpeg')";
 }
